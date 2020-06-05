@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Telemedicina-WebGL",
+"dataUrl": "Telemedicina-WebGL.data.unityweb",
+"wasmCodeUrl": "Telemedicina-WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Telemedicina-WebGL.wasm.framework.unityweb",
+"TOTAL_MEMORY": 83886080,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
